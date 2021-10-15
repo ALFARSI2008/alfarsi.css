@@ -16,7 +16,7 @@
 To install this package add
 
 ```html
-<link rel="stylesheet" href="cdn"> Not ready yet
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ALFARSI2008/Erb.css@main/src/">
 ```
 to your html file (typically that's index.html) in head section
 
