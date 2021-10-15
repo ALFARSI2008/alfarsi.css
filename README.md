@@ -16,7 +16,7 @@
 To install this package add
 
 ```html
-<link rel="stylesheet" href="cdn"> 
+<link rel="stylesheet" href="cdn"> Not ready yet
 ```
 to your html file (typically that's index.html) in head section
 
